@@ -9,7 +9,7 @@ This project integrates a Spring Boot WebSocket server with a FastAPI backend to
 
 
 ## Features
-Real-time streaming of AI responses one letter at a time.
+Real-time streaming of responses one letter at a time.
 
 WebSocket communication between the frontend and Spring Boot server.
 
