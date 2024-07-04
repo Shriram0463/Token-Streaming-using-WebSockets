@@ -22,14 +22,14 @@ Frontend built with HTML, JavaScript, and React.
 
 # Backend
 
-# Spring Boot
+## Spring Boot
 **WebSocketHandler.java**: Handles WebSocket connections and streams messages from FastAPI to the client.
 
 **application.properties**: Configuration properties for the Spring Boot application.
 
 **pom.xml**: Maven configuration file for managing dependencies and building the Spring Boot application.
 
-# FastAPI
+## FastAPI
 **main.py**: FastAPI application that processes incoming messages and streams responses one letter at a time to the Spring Boot server.
 
 **requirements.txt**: List of Python dependencies required for the FastAPI application.
