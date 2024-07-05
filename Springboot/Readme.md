@@ -20,4 +20,4 @@ This project demonstrates a simple AI streaming assistant using Spring Boot and 
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
